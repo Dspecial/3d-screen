@@ -14,17 +14,17 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
-      path: '/:addr',
+      path: '/',
       name: 'firstScreen',
       component:() =>import('@/views/firstScreen')
     },
     {
-      path: '/second/:addr',
+      path: '/second',
       name: 'secondScreen',
       component:() =>import('@/views/secondScreen'),
     },
     {
-      path: '/thrid/:addr',
+      path: '/thrid',
       name: 'thridScreen',
       component:() =>import('@/views/thridScreen'),
     },
