@@ -1,0 +1,3594 @@
+{
+    "type": "FeatureCollection",
+    "name": "总装_工位图层",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::900913"
+        }
+    },
+    "features": [
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_0",
+                "id": "GW_0",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557083.370437616,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_1",
+                "id": "GW_1",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557077.370437616,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_2",
+                "id": "GW_2",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557071.370437616,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_3",
+                "id": "GW_3",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557065.962109622,
+                    2671165.321415297
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_4",
+                "id": "GW_4",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557059.117798347,
+                    2671165.412672781
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_5",
+                "id": "GW_5",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557059.20372737,
+                    2671173.298778153
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_6",
+                "id": "GW_6",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557065.203698618,
+                    2671173.2802034537
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_7",
+                "id": "GW_7",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557069.20368666,
+                    2671171.27045014
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_8",
+                "id": "GW_8",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557075.203669578,
+                    2671171.256132825
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_9",
+                "id": "GW_9",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557081.203652496,
+                    2671171.2418155097
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_10",
+                "id": "GW_10",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557087.203635413,
+                    2671171.227498195
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_11",
+                "id": "GW_11",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557093.20361833,
+                    2671171.21318088
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_12",
+                "id": "GW_12",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557099.203601249,
+                    2671171.198863565
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_13",
+                "id": "GW_13",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557105.203584166,
+                    2671171.1845462504
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_14",
+                "id": "GW_14",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557111.203567084,
+                    2671171.1702289353
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_15",
+                "id": "GW_15",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557117.20355,
+                    2671171.1559116202
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_16",
+                "id": "GW_16",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557123.20353292,
+                    2671171.1415943056
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_17",
+                "id": "GW_17",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557129.203515839,
+                    2671171.1272769906
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_18",
+                "id": "GW_18",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557135.203498757,
+                    2671171.1129596755
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_19",
+                "id": "GW_19",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557141.203481674,
+                    2671171.098642361
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_20",
+                "id": "GW_20",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557145.65288677,
+                    2671172.987043924
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_21",
+                "id": "GW_21",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557151.65288677,
+                    2671172.987043924
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_22",
+                "id": "GW_22",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557152.747976575,
+                    2671168.88045716
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_23",
+                "id": "GW_23",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557151.909161523,
+                    2671165.042505726
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_24",
+                "id": "GW_24",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557145.909161523,
+                    2671165.042505726
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_25",
+                "id": "GW_25",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557141.317797197,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_26",
+                "id": "GW_26",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557135.317797197,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_27",
+                "id": "GW_27",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557129.317797197,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_28",
+                "id": "GW_28",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557123.317797197,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_29",
+                "id": "GW_29",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557117.317797197,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_30",
+                "id": "GW_30",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557111.317797197,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_31",
+                "id": "GW_31",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557105.317797197,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_32",
+                "id": "GW_32",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557099.317797197,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_33",
+                "id": "GW_33",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557093.317797197,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B2_GW_34",
+                "id": "GW_34",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557087.317797197,
+                    2671167.329079937
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_35",
+                "id": "GW_35",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557083.985886982,
+                    2671180.972073743
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_36",
+                "id": "GW_36",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557077.985886982,
+                    2671180.972073743
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_37",
+                "id": "GW_37",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557071.985886982,
+                    2671180.972073743
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_38",
+                "id": "GW_38",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557066.372768298,
+                    2671178.8731516185
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_39",
+                "id": "GW_39",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557059.61971451,
+                    2671179.146924069
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_40",
+                "id": "GW_40",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557059.888158495,
+                    2671187.261173152
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_41",
+                "id": "GW_41",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557065.888129743,
+                    2671187.242598453
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_42",
+                "id": "GW_42",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557069.888117785,
+                    2671185.2328451388
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_43",
+                "id": "GW_43",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557075.888100702,
+                    2671185.2185278237
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_44",
+                "id": "GW_44",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557081.88808362,
+                    2671185.204210509
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_45",
+                "id": "GW_45",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557087.888066538,
+                    2671185.189893194
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_46",
+                "id": "GW_46",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557093.888049455,
+                    2671185.175575879
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_47",
+                "id": "GW_47",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557099.888032373,
+                    2671185.1612585643
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_48",
+                "id": "GW_48",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557105.88801529,
+                    2671185.1469412493
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_49",
+                "id": "GW_49",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557111.887998208,
+                    2671185.132623934
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_50",
+                "id": "GW_50",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557117.887981126,
+                    2671185.1183066196
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_51",
+                "id": "GW_51",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557123.887964044,
+                    2671185.1039893045
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_52",
+                "id": "GW_52",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557129.887946963,
+                    2671185.0896719894
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_53",
+                "id": "GW_53",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557135.887929881,
+                    2671185.075354675
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_54",
+                "id": "GW_54",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557141.887912799,
+                    2671185.0610373598
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "A82",
+                "id": "GW_55",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557144.876050971,
+                    2671188.0660163607
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "A83",
+                "id": "GW_56",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557150.876050971,
+                    2671188.0660163607
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_57",
+                "id": "GW_57",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557152.793605316,
+                    2671182.979738383
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_58",
+                "id": "GW_58",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557152.593592647,
+                    2671179.004900725
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_59",
+                "id": "GW_59",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557146.593592647,
+                    2671179.004900725
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_60",
+                "id": "GW_60",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557142.298994696,
+                    2671181.0633312264
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_61",
+                "id": "GW_61",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557135.933246562,
+                    2671180.972073743
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_62",
+                "id": "GW_62",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557129.933246562,
+                    2671180.972073743
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_63",
+                "id": "GW_63",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557123.933246562,
+                    2671180.972073743
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_64",
+                "id": "GW_64",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557117.933246562,
+                    2671180.972073743
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_65",
+                "id": "GW_65",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557111.933246562,
+                    2671180.972073743
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_66",
+                "id": "GW_66",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557105.933246562,
+                    2671180.972073743
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_67",
+                "id": "GW_67",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557099.933246562,
+                    2671180.972073743
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_68",
+                "id": "GW_68",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557093.933246562,
+                    2671180.972073743
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B1_GW_69",
+                "id": "GW_69",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557087.933246562,
+                    2671180.972073743
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_70",
+                "id": "GW_70",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557195.816782832,
+                    2671143.2362303734
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_71",
+                "id": "GW_71",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557189.816782832,
+                    2671143.2362303734
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_72",
+                "id": "GW_72",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557183.816782832,
+                    2671143.2362303734
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_73",
+                "id": "GW_73",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557177.816782832,
+                    2671143.2362303734
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_74",
+                "id": "GW_74",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557173.13020244,
+                    2671144.5496499822
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_75",
+                "id": "GW_75",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557173.13020244,
+                    2671150.5496499822
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_76",
+                "id": "GW_76",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557173.13020244,
+                    2671156.5496499822
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_77",
+                "id": "GW_77",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557173.13020244,
+                    2671162.5496499822
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_78",
+                "id": "GW_78",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557179.049200684,
+                    2671162.6306517404
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_79",
+                "id": "GW_79",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557185.049200684,
+                    2671162.6306517404
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_80",
+                "id": "GW_80",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557191.049200684,
+                    2671162.6306517404
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_81",
+                "id": "GW_81",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557197.049200684,
+                    2671162.6306517404
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_82",
+                "id": "GW_82",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557203.049200684,
+                    2671162.6306517404
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_83",
+                "id": "GW_83",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557209.049200684,
+                    2671162.6306517404
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_84",
+                "id": "GW_84",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557210.630423414,
+                    2671159.3552286257
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_85",
+                "id": "GW_85",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557216.630261844,
+                    2671159.3992604376
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_86",
+                "id": "GW_86",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557222.630100276,
+                    2671159.4432922495
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_87",
+                "id": "GW_87",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557228.629938707,
+                    2671159.4873240613
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_88",
+                "id": "GW_88",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557234.629777137,
+                    2671159.5313558737
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_89",
+                "id": "GW_89",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557240.62961557,
+                    2671159.5753876856
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_90",
+                "id": "GW_90",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557246.629454,
+                    2671159.6194194974
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_91",
+                "id": "GW_91",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557252.629292432,
+                    2671159.66345131
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_92",
+                "id": "GW_92",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557258.629130863,
+                    2671159.7074831217
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_93",
+                "id": "GW_93",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557263.588376451,
+                    2671160.2798221097
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_94",
+                "id": "GW_94",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557267.831298076,
+                    2671162.236881318
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_95",
+                "id": "GW_95",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557273.830694657,
+                    2671162.1517892163
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_96",
+                "id": "GW_96",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557279.830091236,
+                    2671162.066697115
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_97",
+                "id": "GW_97",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557285.829487817,
+                    2671161.9816050134
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_98",
+                "id": "GW_98",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557291.828884399,
+                    2671161.8965129117
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_99",
+                "id": "GW_99",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557296.341627106,
+                    2671154.4617747413
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_100",
+                "id": "GW_100",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557294.394547611,
+                    2671143.5157362665
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_101",
+                "id": "GW_101",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557288.3951494,
+                    2671143.4307591827
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_102",
+                "id": "GW_102",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557282.39575119,
+                    2671143.3457820993
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_103",
+                "id": "GW_103",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557277.220336448,
+                    2671144.0965422615
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_104",
+                "id": "GW_104",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557273.255448157,
+                    2671146.126590128
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_105",
+                "id": "GW_105",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557267.255453045,
+                    2671146.118931993
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_106",
+                "id": "GW_106",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557261.255457932,
+                    2671146.1112738578
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_107",
+                "id": "GW_107",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557255.503534291,
+                    2671146.537689934
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_108",
+                "id": "GW_108",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557249.503539179,
+                    2671146.5300317993
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_109",
+                "id": "GW_109",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557243.503544066,
+                    2671146.522373664
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_110",
+                "id": "GW_110",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557237.503548952,
+                    2671146.514715529
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_111",
+                "id": "GW_111",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557231.50355384,
+                    2671146.507057394
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_112",
+                "id": "GW_112",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557225.503558727,
+                    2671146.4993992588
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_113",
+                "id": "GW_113",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557219.503563615,
+                    2671146.4917411236
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_114",
+                "id": "GW_114",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557213.503568502,
+                    2671146.4840829885
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_115",
+                "id": "GW_115",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557207.503573388,
+                    2671146.4764248533
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C2_GW_116",
+                "id": "GW_116",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557201.296957882,
+                    2671146.476744923
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_117",
+                "id": "GW_117",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557078.100844325,
+                    2671152.3731207545
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_118",
+                "id": "GW_118",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557084.100775646,
+                    2671152.40182856
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_119",
+                "id": "GW_119",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557090.100706968,
+                    2671152.430536365
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_120",
+                "id": "GW_120",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557096.100638289,
+                    2671152.4592441707
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_121",
+                "id": "GW_121",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557102.100569611,
+                    2671152.487951976
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_122",
+                "id": "GW_122",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557108.100500932,
+                    2671152.5166597813
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_123",
+                "id": "GW_123",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557114.100432254,
+                    2671152.5453675864
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_124",
+                "id": "GW_124",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557120.100363575,
+                    2671152.574075392
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_125",
+                "id": "GW_125",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557126.100294897,
+                    2671152.6027831975
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_126",
+                "id": "GW_126",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557132.100226218,
+                    2671152.6314910026
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_127",
+                "id": "GW_127",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557138.10015754,
+                    2671152.660198808
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_128",
+                "id": "GW_128",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557138.305941142,
+                    2671148.712553273
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_129",
+                "id": "GW_129",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557132.305941142,
+                    2671148.712553273
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_130",
+                "id": "GW_130",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557120.305941142,
+                    2671148.712553273
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_131",
+                "id": "GW_131",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557114.305941142,
+                    2671148.712553273
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_132",
+                "id": "GW_132",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557108.305941142,
+                    2671148.712553273
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_133",
+                "id": "GW_133",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557102.305941142,
+                    2671148.712553273
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_134",
+                "id": "GW_134",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557096.305941142,
+                    2671148.712553273
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_135",
+                "id": "GW_135",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557084.305941142,
+                    2671148.712553273
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_136",
+                "id": "GW_136",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557078.610919913,
+                    2671149.0309313745
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B4_GW_137",
+                "id": "GW_137",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557086.44941471,
+                    2671141.183810872
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B4_GW_138",
+                "id": "GW_138",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557081.430253109,
+                    2671140.179978552
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B4_GW_139",
+                "id": "GW_139",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557085.582828412,
+                    2671137.7657452137
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B4_GW_140",
+                "id": "GW_140",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557091.582828064,
+                    2671137.763700224
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B4_GW_141",
+                "id": "GW_141",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557097.582827715,
+                    2671137.7616552343
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B4_GW_142",
+                "id": "GW_142",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557102.373845607,
+                    2671138.993631264
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B4_GW_143",
+                "id": "GW_143",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557098.906061228,
+                    2671140.453751003
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B4_GW_144",
+                "id": "GW_144",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557092.9060735,
+                    2671140.4658861994
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B4_GW_145",
+                "id": "GW_145",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557090.334938472,
+                    2671144.609497421
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B5_GW_146",
+                "id": "GW_146",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557113.707829582,
+                    2671140.733089782
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B5_GW_147",
+                "id": "GW_147",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557117.309080513,
+                    2671138.337889553
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B5_GW_148",
+                "id": "GW_148",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557123.309080346,
+                    2671138.339306318
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B5_GW_149",
+                "id": "GW_149",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557128.929773351,
+                    2671138.7198588126
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B5_GW_150",
+                "id": "GW_150",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557128.928483028,
+                    2671144.719858674
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B3_GW_151",
+                "id": "GW_151",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557125.65106348,
+                    2671148.1814733767
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B5_GW_152",
+                "id": "GW_152",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557124.8532495,
+                    2671140.753670691
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "B5_GW_153",
+                "id": "GW_153",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557118.85325973,
+                    2671140.74259123
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_154",
+                "id": "GW_154",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557145.03671921,
+                    2671212.866564279
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_155",
+                "id": "GW_155",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557147.591928752,
+                    2671207.026085325
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_156",
+                "id": "GW_156",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557153.591737103,
+                    2671206.978129486
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_157",
+                "id": "GW_157",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557159.591545453,
+                    2671206.9301736467
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_158",
+                "id": "GW_158",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557165.591353804,
+                    2671206.882217807
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_159",
+                "id": "GW_159",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557171.591162153,
+                    2671206.834261968
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_160",
+                "id": "GW_160",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557177.590970503,
+                    2671206.7863061284
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_161",
+                "id": "GW_161",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557183.590778854,
+                    2671206.738350289
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_162",
+                "id": "GW_162",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557189.590587202,
+                    2671206.6903944495
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_163",
+                "id": "GW_163",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557195.590395553,
+                    2671206.64243861
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_164",
+                "id": "GW_164",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557201.590203904,
+                    2671206.5944827707
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_165",
+                "id": "GW_165",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557207.590012254,
+                    2671206.546526931
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_166",
+                "id": "GW_166",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557213.639903743,
+                    2671206.9143405682
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_167",
+                "id": "GW_167",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557219.639712093,
+                    2671206.8663847293
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_168",
+                "id": "GW_168",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557225.639520444,
+                    2671206.81842889
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_169",
+                "id": "GW_169",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557233.096846359,
+                    2671206.9729554174
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_170",
+                "id": "GW_170",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557239.096654708,
+                    2671206.924999578
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_171",
+                "id": "GW_171",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557245.096463058,
+                    2671206.8770437385
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_172",
+                "id": "GW_172",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557251.096271409,
+                    2671206.829087899
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_173",
+                "id": "GW_173",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557257.096079757,
+                    2671206.7811320596
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_174",
+                "id": "GW_174",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557264.5888129,
+                    2671206.7811320596
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_175",
+                "id": "GW_175",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557273.618513675,
+                    2671206.7523128744
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_176",
+                "id": "GW_176",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557281.649172237,
+                    2671206.9348278414
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_177",
+                "id": "GW_177",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557284.478154227,
+                    2671209.809438578
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_178",
+                "id": "GW_178",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557279.332035111,
+                    2671212.6947268597
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_179",
+                "id": "GW_179",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557272.415666055,
+                    2671212.9829089036
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_180",
+                "id": "GW_180",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557264.778841889,
+                    2671212.6947268597
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_181",
+                "id": "GW_181",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557257.009651648,
+                    2671213.094707989
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_182",
+                "id": "GW_182",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557251.009767381,
+                    2671213.1319743507
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_183",
+                "id": "GW_183",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557245.009883115,
+                    2671213.1692407127
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_184",
+                "id": "GW_184",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557239.009998847,
+                    2671213.2065070746
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_185",
+                "id": "GW_185",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557233.01011458,
+                    2671213.2437734366
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_186",
+                "id": "GW_186",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557227.010230314,
+                    2671213.2810397986
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_187",
+                "id": "GW_187",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557219.822443023,
+                    2671213.1269999254
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_188",
+                "id": "GW_188",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557212.617891923,
+                    2671212.9829089036
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_189",
+                "id": "GW_189",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557205.557431845,
+                    2671212.9829089036
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_190",
+                "id": "GW_190",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557198.256612783,
+                    2671212.703136024
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_191",
+                "id": "GW_191",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557191.941884674,
+                    2671212.7631275747
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_192",
+                "id": "GW_192",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557185.942000408,
+                    2671212.8003939367
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_193",
+                "id": "GW_193",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557179.94211614,
+                    2671212.837660298
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_194",
+                "id": "GW_194",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557173.942231873,
+                    2671212.87492666
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_195",
+                "id": "GW_195",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557167.942347605,
+                    2671212.912193022
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_196",
+                "id": "GW_196",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557161.942463338,
+                    2671212.949459384
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_197",
+                "id": "GW_197",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557155.942579072,
+                    2671212.986725746
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "level": 9,
+                "area": "C1_GW_198",
+                "id": "GW_198",
+                "part_number": "9",
+                "type_index": 6,
+                "type": "工位"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12557150.299579315,
+                    2671212.6190365525
+                ]
+            },
+            "type": "Feature"
+        }
+    ]
+}

@@ -1,0 +1,1150 @@
+{
+    "type": "FeatureCollection",
+    "name": "总装_墙体图层",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::900913"
+        }
+    },
+    "features": [
+        {
+            "properties": {
+                "id": 1,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557162.9304,
+                        2671332.4484,
+                        0.0
+                    ],
+                    [
+                        12557243.1054,
+                        2671332.4484,
+                        0.0
+                    ],
+                    [
+                        12557243.0304,
+                        2671317.4484,
+                        0.0
+                    ],
+                    [
+                        12557243.0304,
+                        2671317.0553797223,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 2,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557243.0304,
+                        2671326.2484,
+                        0.0
+                    ],
+                    [
+                        12557256.510541763,
+                        2671326.2484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 3,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557260.5304,
+                        2671326.2484,
+                        0.0
+                    ],
+                    [
+                        12557271.4304,
+                        2671326.2484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 4,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557274.4304,
+                        2671326.2484,
+                        0.0
+                    ],
+                    [
+                        12557292.435541764,
+                        2671326.2484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 5,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557295.4304,
+                        2671326.1484,
+                        0.0
+                    ],
+                    [
+                        12557303.8304,
+                        2671326.2484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 6,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557310.7304,
+                        2671326.2484,
+                        0.0
+                    ],
+                    [
+                        12557325.2304,
+                        2671326.2484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 7,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557326.802361915,
+                        2671332.4484,
+                        0.0
+                    ],
+                    [
+                        12557395.3054,
+                        2671332.4484,
+                        0.0
+                    ],
+                    [
+                        12557395.4504,
+                        2671316.688237352,
+                        0.0
+                    ],
+                    [
+                        12557372.4904,
+                        2671316.6984,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 8,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557370.7804,
+                        2671316.6984,
+                        0.0
+                    ],
+                    [
+                        12557334.990352893,
+                        2671316.6984,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 9,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557333.4304,
+                        2671316.6984,
+                        0.0
+                    ],
+                    [
+                        12557326.7804,
+                        2671316.6984,
+                        0.0
+                    ],
+                    [
+                        12557326.802361915,
+                        2671332.4484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 10,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557326.6804,
+                        2671317.2484,
+                        0.0
+                    ],
+                    [
+                        12557295.2304,
+                        2671317.1484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 11,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557292.0304,
+                        2671317.2484,
+                        0.0
+                    ],
+                    [
+                        12557276.4304,
+                        2671317.1484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 12,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557275.4804,
+                        2671317.1484,
+                        0.0
+                    ],
+                    [
+                        12557272.3804,
+                        2671317.1484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 13,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557271.4304,
+                        2671317.1484,
+                        0.0
+                    ],
+                    [
+                        12557243.0304,
+                        2671317.1484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 14,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557243.0804,
+                        2671316.9484,
+                        0.0
+                    ],
+                    [
+                        12557210.3304,
+                        2671316.9484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 15,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557203.696,
+                        2671316.6984,
+                        0.0
+                    ],
+                    [
+                        12557190.6715605,
+                        2671316.6984,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 16,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557188.5304,
+                        2671316.9484,
+                        0.0
+                    ],
+                    [
+                        12557178.3304,
+                        2671316.9484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 17,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557171.696,
+                        2671316.6984,
+                        0.0
+                    ],
+                    [
+                        12557162.9304,
+                        2671316.6984,
+                        0.0
+                    ],
+                    [
+                        12557162.9304,
+                        2671332.4484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 18,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557162.7804,
+                        2671316.1984,
+                        0.0
+                    ],
+                    [
+                        12557162.5554,
+                        2671266.9234,
+                        0.0
+                    ],
+                    [
+                        12557166.2179,
+                        2671266.8548355503,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 19,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557168.2804,
+                        2671266.8134,
+                        0.0
+                    ],
+                    [
+                        12557188.8304,
+                        2671267.0067333337,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 20,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557191.0304,
+                        2671266.9234,
+                        0.0
+                    ],
+                    [
+                        12557203.5804,
+                        2671266.8134,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 21,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557211.0304,
+                        2671266.8134,
+                        0.0
+                    ],
+                    [
+                        12557232.2804,
+                        2671266.8134,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 22,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557234.0804,
+                        2671266.9234,
+                        0.0
+                    ],
+                    [
+                        12557242.7704,
+                        2671266.8446343136,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 23,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557250.8304,
+                        2671266.9234,
+                        0.0
+                    ],
+                    [
+                        12557330.4054,
+                        2671266.9234,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 24,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557331.7054,
+                        2671266.9234,
+                        0.0
+                    ],
+                    [
+                        12557338.10397511,
+                        2671266.9234,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 25,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557344.2304,
+                        2671266.9234,
+                        0.0
+                    ],
+                    [
+                        12557395.4504,
+                        2671266.8134,
+                        0.0
+                    ],
+                    [
+                        12557395.4504,
+                        2671316.688237352,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 26,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557186.5804,
+                        2671310.594673903,
+                        0.0
+                    ],
+                    [
+                        12557186.5804,
+                        2671282.4984,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 27,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557186.7804,
+                        2671277.8484,
+                        0.0
+                    ],
+                    [
+                        12557186.679854851,
+                        2671266.9865011163,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 28,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557186.7804,
+                        2671277.8484,
+                        0.0
+                    ],
+                    [
+                        12557193.185469951,
+                        2671277.8484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 29,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557197.4804,
+                        2671277.8484,
+                        0.0
+                    ],
+                    [
+                        12557235.2904,
+                        2671277.8484,
+                        0.0
+                    ],
+                    [
+                        12557235.2904,
+                        2671276.805233922,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 30,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557235.2904,
+                        2671275.3482112177,
+                        0.0
+                    ],
+                    [
+                        12557235.2904,
+                        2671266.9234,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 31,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557186.7704,
+                        2671297.1734,
+                        0.0
+                    ],
+                    [
+                        12557211.4304,
+                        2671296.9734,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 32,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557212.4304,
+                        2671297.0734,
+                        0.0
+                    ],
+                    [
+                        12557227.4304,
+                        2671296.9734,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 33,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557231.4304,
+                        2671296.9734,
+                        0.0
+                    ],
+                    [
+                        12557235.2554,
+                        2671296.9734,
+                        0.0
+                    ],
+                    [
+                        12557235.2554,
+                        2671298.1984,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 34,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557235.2554,
+                        2671302.1984,
+                        0.0
+                    ],
+                    [
+                        12557235.2554,
+                        2671303.1484,
+                        0.0
+                    ],
+                    [
+                        12557254.1304,
+                        2671303.1484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 35,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557258.1304,
+                        2671303.1484,
+                        0.0
+                    ],
+                    [
+                        12557259.4304,
+                        2671303.1484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 36,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557263.4304,
+                        2671303.1484,
+                        0.0
+                    ],
+                    [
+                        12557275.4804,
+                        2671303.1484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 37,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557279.4804,
+                        2671303.1484,
+                        0.0
+                    ],
+                    [
+                        12557280.9054,
+                        2671303.1484,
+                        0.0
+                    ],
+                    [
+                        12557280.9054,
+                        2671296.9734,
+                        0.0
+                    ],
+                    [
+                        12557283.4304,
+                        2671296.9734,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 38,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557287.4304,
+                        2671296.9734,
+                        0.0
+                    ],
+                    [
+                        12557295.4304,
+                        2671296.9734,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 39,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557299.4304,
+                        2671296.9734,
+                        0.0
+                    ],
+                    [
+                        12557304.3304,
+                        2671296.9734,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 40,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557308.3304,
+                        2671296.9734,
+                        0.0
+                    ],
+                    [
+                        12557313.3304,
+                        2671296.9734,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 41,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557317.3304,
+                        2671296.9734,
+                        0.0
+                    ],
+                    [
+                        12557335.5804,
+                        2671296.9734,
+                        0.0
+                    ],
+                    [
+                        12557335.5804,
+                        2671311.8484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 42,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557335.5804,
+                        2671296.9734,
+                        0.0
+                    ],
+                    [
+                        12557335.5804,
+                        2671290.4484,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 43,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557335.5804,
+                        2671286.4484,
+                        0.0
+                    ],
+                    [
+                        12557335.5804,
+                        2671278.5764,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 44,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557335.5804,
+                        2671274.3204,
+                        0.0
+                    ],
+                    [
+                        12557335.5804,
+                        2671272.1984,
+                        0.0
+                    ],
+                    [
+                        12557332.4054,
+                        2671272.1984,
+                        0.0
+                    ],
+                    [
+                        12557332.4054,
+                        2671271.6984,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 45,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557332.4054,
+                        2671270.1984,
+                        0.0
+                    ],
+                    [
+                        12557332.4054,
+                        2671266.9234,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "id": 46,
+                "type_index": 2,
+                "type": "墙体"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12557335.5804,
+                        2671272.1984,
+                        0.0
+                    ],
+                    [
+                        12557335.5804,
+                        2671266.9234,
+                        0.0
+                    ]
+                ]
+            },
+            "type": "Feature"
+        }
+    ]
+}
