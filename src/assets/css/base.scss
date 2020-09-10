@@ -3,19 +3,19 @@
 * @Email: dingxixi@techbloom.net
 * @Date:   2020-08-19 14:13:59
 * @Last Modified by:   dxx
-* @Last Modified time: 2020-09-09 16:33:02
+* @Last Modified time: 2020-09-10 10:17:20
 */
 @charset "UTF-8";
 /*css 初始化 */
 @media (max-width: 414.99px){
-	html{
-	  font-size: 62.5%;
-	}
+  html{
+    font-size: 62.5%;
+  }
 }
 @media (min-width: 415px) and (max-width:768.99px){
-	html{
-	  font-size: 75%;
-	}
+  html{
+    font-size: 75%;
+  }
 }
 @media (min-width: 769px) and (max-width:1536.99px){
   html{
@@ -23,9 +23,9 @@
   }
 }
 @media (min-width: 1537px){
-	html{
-	  font-size: 87.5%;
-	}
+  html{
+    font-size: 87.5%;
+  }
 }
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB',
@@ -1310,6 +1310,11 @@ input[type=number]::-webkit-outer-spin-button {
     h2{
       font-weight: 300;
       letter-spacing: 2px;
+      font-size:32px;
+      color:#00B4FF;
+    }
+    p{
+      color:#00B4FF;
     }
     .dv-decoration-5{
       margin-top:-2.5rem;
@@ -1367,6 +1372,15 @@ input[type=number]::-webkit-outer-spin-button {
 }
 /*firstScreen*/
 .firstScreen{
+  .page_title{
+    h2{
+      font-size: 44px;
+      color:#E3F7FF;
+    }
+    p{
+      color:#97E2FC;
+    }
+  }
   .container-3d{
     background:url("../../assets/images/screen_bg.png") center center no-repeat;
     background-size:contain;
